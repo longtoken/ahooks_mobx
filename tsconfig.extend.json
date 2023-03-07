@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@src/*": ["./*"],
+      "@containers/*": ["./containers/*"],
+      "@components/*": ["./components/*"],
+      "@router/*": ["./router/*"],
+      "@utils/*": ["./utils/*"],
+    }
+  }
+}
